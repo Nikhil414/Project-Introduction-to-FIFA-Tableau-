@@ -1,4 +1,5 @@
 # Project-Introduction-to-FIFA-Tableau-
+[![Image alt](https://github.com/Nikhil414/Project-Introduction-to-FIFA-Tableau-/blob/64b4762d6c5088a88473028cf47b4c7bf76909b1/Screenshot_12-11-2024_144448_public.tableau.com.jpeg)](https://public.tableau.com/app/profile/nikhil.airsang/viz/Football_Analysis_17298609188690/Dashboard1)
 
 Introduction to FIFA
 
